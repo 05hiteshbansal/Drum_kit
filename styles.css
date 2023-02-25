@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: #85c7de;
+  background-image: url("	https://musicianshq.com/wp-content/uploads/2019/03/Webp.net-resizeimage-1.jpg");
+  background-repeat: none;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #dbe3f3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #0488da;
+
+}
+h2{
+  font-size: 3rem;
+  color: #f02f08;
+
+}
+
+footer {
+ 
+  font-family: sans-serif;
+  height: 100px;
+}
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  border: 2px solid #2c2d30;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #490adb8e;
+  text-shadow: 3px 0 #85c7de;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;}
+
+.set{
+  width: 90%;
+  
+}
